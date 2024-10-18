@@ -1,0 +1,5 @@
+Movie Title,Year,Genre,Critic Name,Rating,Review Text,Runtime,Director,Cast,Awards
+The Shawshank Redemption,1994,Drama,Roger Ebert,4.5,A masterpiece of storytelling...,142 minutes,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton","7 Academy Award nominations, 1 Oscar win"
+The Godfather,1972,Crime,Gene Siskel,4,A classic film that...,175 minutes,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan","11 Academy Award nominations, 3 Oscar wins"
+Schindler's List,1993,Historical,Pauline Kael,4.5,A powerful and moving...,195 minutes,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley","12 Academy Award nominations, 7 Oscar wins"
+...,...,...,...,...,...,...,...,...,...
